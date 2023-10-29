@@ -4,13 +4,22 @@ author: ""
 date: ""
 output:
   rmarkdown::html_document:
-  theme: cosmo
+  theme: readable
 toc: no
 toc_float: no
 code_folding: hide
 code_downlod: yes
 highlight: textmate
 ---
+
+<style type="text/css">
+  body{
+  font-size: 18pt;
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 24pt;
+}
+</style>
   
   ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -161,7 +170,9 @@ There are so many data sources, some we can source `online`, `excel workbooks`, 
 
 ### Exercise Day 1
 
-Download EPL (English Premier League data) [here](https://github.com/Qprop/ExcelAdvTrainingMsa/tree/master/Exercise/Data/English Premier League_09_19) and [original sources](https://datahub.io/sports-data/english-premier-league#resource-english-premier-league_zip) **Requires Internet**
+Download EPL (English Premier League data) [here](https://github.com/Qprop/ExcelAdvNBO/tree/master/Exercise/Data/English Premier League_09_19) and [original sources](https://datahub.io/sports-data/english-premier-league#resource-english-premier-league_zip) **Requires Internet**
+
+Or to downloand click on google drive link [here](https://drive.google.com/drive/folders/1IWUXH08OaDUqtGvd5v-GSw7lFgaeJglP?usp=sharing) this will send a request to access and once accepted you can access the data files here.
 
 Data content:
   - 10 separate csv files
