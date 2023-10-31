@@ -248,8 +248,6 @@ We will use the `_01_SalaryDepart.xlsx` data which can be gotten in the `Data\_0
     -   Average Salary of Staff by Building
 
 
-## Day 3 {.tabset .tabset-pills}
-
 ### Text Functions
 
 #### Introduction
@@ -299,6 +297,7 @@ We will use the `_01_SalaryDepart.xlsx` data which can be gotten in the `Data\_0
     -   Play with the CHAR Function what does it do
 
 
+## Day 3 {.tabset .tabset-pills}
 
 ### Date Functions
 
@@ -347,8 +346,6 @@ We will use the `_01_SalaryDepart.xlsx` data which can be gotten in the `Data\_0
     -  From 'Hire Date' pick the Weekday of employment
 
 
-## Day 4 {.tabset .tabset-pills}
-
 
 ### Pivot tables
 
@@ -378,7 +375,8 @@ From `Insert >  PivotTables`, you can create pivot tables.
     
     -   Average Salary of staff by Department
     -   Average Salary of Staff by Building
-    
+
+## Day 4 {.tabset .tabset-pills}    
 
 ### Power Query
 
