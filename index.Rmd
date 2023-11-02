@@ -378,7 +378,48 @@ From `Insert >  PivotTables`, you can create pivot tables.
 
 ## Day 4 {.tabset .tabset-pills}    
 
+### Visualization
+
+<br><br><br>
+
+
+#### Data can be fun | Visualization and story telling
+
+<br><br><br>
+
+```{r echo=FALSE, warning=TRUE}
+knitr::include_url("https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1")
+
+```
+
+<br><br><br>
+
+
+Beauty lies in the eyes of the beholder, data has to be simplified further to make sense to be able to achieve this we need to have visuals e.g graphs or charts.
+
+Excel has charting functionalists.
+
+From `Insert >  Charts`, launches the power query editor.
+
+  - Bar Chart
+  - Line Chart
+  - Pie Chart
+  
+  
+### Get our hands dirty
+
+    Using the data salary attempt the below practices
+    
+    -   Load the salary data
+    -  Draw a bar graph of No. of Employees within the different departments
+    -  Draw a bar graph of No. of Employees within the different buildings
+    -  Draw a line graph showing the different hire dates in months for the different hires
+    -  Draw a pie chart on the status of employees
+
+
 ### Power Query
+
+<br><br><br>
 
 Introduced to help faster execution and overcome limitations present in excel, that is number of rows and columns. 
 
